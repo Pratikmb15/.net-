@@ -1,0 +1,7 @@
+C:\Users\MILIND\source\repos\Myfirstproject\Myfirstproject\bin\Debug\Myfirstproject.exe
+C:\Users\MILIND\source\repos\Myfirstproject\Myfirstproject\bin\Debug\Myfirstproject.exe.config
+C:\Users\MILIND\source\repos\Myfirstproject\Myfirstproject\obj\Debug\Myfirstproject.csproj.AssemblyReference.cache
+C:\Users\MILIND\source\repos\Myfirstproject\Myfirstproject\obj\Debug\Myfirstproject.csproj.CoreCompileInputs.cache
+C:\Users\MILIND\source\repos\Myfirstproject\Myfirstproject\obj\Debug\Myfirstproject.exe
+C:\Users\MILIND\source\repos\Myfirstproject\Myfirstproject\obj\Debug\Myfirstproject.pdb
+C:\Users\MILIND\source\repos\Myfirstproject\Myfirstproject\bin\Debug\Myfirstproject.pdb
