@@ -1,0 +1,7 @@
+C:\Users\MILIND\source\repos\LinqandLambdaProblems\LinqandLambdaProblems\bin\Debug\LinqandLambdaProblems.exe.config
+C:\Users\MILIND\source\repos\LinqandLambdaProblems\LinqandLambdaProblems\bin\Debug\LinqandLambdaProblems.exe
+C:\Users\MILIND\source\repos\LinqandLambdaProblems\LinqandLambdaProblems\bin\Debug\LinqandLambdaProblems.pdb
+C:\Users\MILIND\source\repos\LinqandLambdaProblems\LinqandLambdaProblems\obj\Debug\LinqandLambdaProblems.csproj.AssemblyReference.cache
+C:\Users\MILIND\source\repos\LinqandLambdaProblems\LinqandLambdaProblems\obj\Debug\LinqandLambdaProblems.csproj.CoreCompileInputs.cache
+C:\Users\MILIND\source\repos\LinqandLambdaProblems\LinqandLambdaProblems\obj\Debug\LinqandLambdaProblems.exe
+C:\Users\MILIND\source\repos\LinqandLambdaProblems\LinqandLambdaProblems\obj\Debug\LinqandLambdaProblems.pdb
