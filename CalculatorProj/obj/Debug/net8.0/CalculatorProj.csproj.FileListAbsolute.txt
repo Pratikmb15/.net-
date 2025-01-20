@@ -1,0 +1,14 @@
+C:\Users\MILIND\source\repos\CalculatorProj\CalculatorProj\bin\Debug\net8.0\CalculatorProj.exe
+C:\Users\MILIND\source\repos\CalculatorProj\CalculatorProj\bin\Debug\net8.0\CalculatorProj.deps.json
+C:\Users\MILIND\source\repos\CalculatorProj\CalculatorProj\bin\Debug\net8.0\CalculatorProj.runtimeconfig.json
+C:\Users\MILIND\source\repos\CalculatorProj\CalculatorProj\bin\Debug\net8.0\CalculatorProj.dll
+C:\Users\MILIND\source\repos\CalculatorProj\CalculatorProj\bin\Debug\net8.0\CalculatorProj.pdb
+C:\Users\MILIND\source\repos\CalculatorProj\CalculatorProj\obj\Debug\net8.0\CalculatorProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MILIND\source\repos\CalculatorProj\CalculatorProj\obj\Debug\net8.0\CalculatorProj.AssemblyInfoInputs.cache
+C:\Users\MILIND\source\repos\CalculatorProj\CalculatorProj\obj\Debug\net8.0\CalculatorProj.AssemblyInfo.cs
+C:\Users\MILIND\source\repos\CalculatorProj\CalculatorProj\obj\Debug\net8.0\CalculatorProj.csproj.CoreCompileInputs.cache
+C:\Users\MILIND\source\repos\CalculatorProj\CalculatorProj\obj\Debug\net8.0\CalculatorProj.dll
+C:\Users\MILIND\source\repos\CalculatorProj\CalculatorProj\obj\Debug\net8.0\refint\CalculatorProj.dll
+C:\Users\MILIND\source\repos\CalculatorProj\CalculatorProj\obj\Debug\net8.0\CalculatorProj.pdb
+C:\Users\MILIND\source\repos\CalculatorProj\CalculatorProj\obj\Debug\net8.0\CalculatorProj.genruntimeconfig.cache
+C:\Users\MILIND\source\repos\CalculatorProj\CalculatorProj\obj\Debug\net8.0\ref\CalculatorProj.dll
