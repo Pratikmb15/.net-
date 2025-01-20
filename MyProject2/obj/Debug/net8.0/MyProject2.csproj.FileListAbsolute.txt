@@ -1,0 +1,14 @@
+C:\Users\MILIND\source\repos\MyProject2\MyProject2\bin\Debug\net8.0\MyProject2.exe
+C:\Users\MILIND\source\repos\MyProject2\MyProject2\bin\Debug\net8.0\MyProject2.deps.json
+C:\Users\MILIND\source\repos\MyProject2\MyProject2\bin\Debug\net8.0\MyProject2.runtimeconfig.json
+C:\Users\MILIND\source\repos\MyProject2\MyProject2\bin\Debug\net8.0\MyProject2.dll
+C:\Users\MILIND\source\repos\MyProject2\MyProject2\bin\Debug\net8.0\MyProject2.pdb
+C:\Users\MILIND\source\repos\MyProject2\MyProject2\obj\Debug\net8.0\MyProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MILIND\source\repos\MyProject2\MyProject2\obj\Debug\net8.0\MyProject2.AssemblyInfoInputs.cache
+C:\Users\MILIND\source\repos\MyProject2\MyProject2\obj\Debug\net8.0\MyProject2.AssemblyInfo.cs
+C:\Users\MILIND\source\repos\MyProject2\MyProject2\obj\Debug\net8.0\MyProject2.csproj.CoreCompileInputs.cache
+C:\Users\MILIND\source\repos\MyProject2\MyProject2\obj\Debug\net8.0\MyProject2.dll
+C:\Users\MILIND\source\repos\MyProject2\MyProject2\obj\Debug\net8.0\refint\MyProject2.dll
+C:\Users\MILIND\source\repos\MyProject2\MyProject2\obj\Debug\net8.0\MyProject2.pdb
+C:\Users\MILIND\source\repos\MyProject2\MyProject2\obj\Debug\net8.0\MyProject2.genruntimeconfig.cache
+C:\Users\MILIND\source\repos\MyProject2\MyProject2\obj\Debug\net8.0\ref\MyProject2.dll
