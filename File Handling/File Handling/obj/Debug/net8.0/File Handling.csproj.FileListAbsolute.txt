@@ -1,0 +1,18 @@
+C:\Users\MILIND\source\repos\File Handling\File Handling\bin\Debug\net8.0\File Handling.exe
+C:\Users\MILIND\source\repos\File Handling\File Handling\bin\Debug\net8.0\File Handling.deps.json
+C:\Users\MILIND\source\repos\File Handling\File Handling\bin\Debug\net8.0\File Handling.runtimeconfig.json
+C:\Users\MILIND\source\repos\File Handling\File Handling\bin\Debug\net8.0\File Handling.dll
+C:\Users\MILIND\source\repos\File Handling\File Handling\bin\Debug\net8.0\File Handling.pdb
+C:\Users\MILIND\source\repos\File Handling\File Handling\obj\Debug\net8.0\File Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MILIND\source\repos\File Handling\File Handling\obj\Debug\net8.0\File Handling.AssemblyInfoInputs.cache
+C:\Users\MILIND\source\repos\File Handling\File Handling\obj\Debug\net8.0\File Handling.AssemblyInfo.cs
+C:\Users\MILIND\source\repos\File Handling\File Handling\obj\Debug\net8.0\File Handling.csproj.CoreCompileInputs.cache
+C:\Users\MILIND\source\repos\File Handling\File Handling\obj\Debug\net8.0\File Handling.dll
+C:\Users\MILIND\source\repos\File Handling\File Handling\obj\Debug\net8.0\refint\File Handling.dll
+C:\Users\MILIND\source\repos\File Handling\File Handling\obj\Debug\net8.0\File Handling.pdb
+C:\Users\MILIND\source\repos\File Handling\File Handling\obj\Debug\net8.0\File Handling.genruntimeconfig.cache
+C:\Users\MILIND\source\repos\File Handling\File Handling\obj\Debug\net8.0\ref\File Handling.dll
+C:\Users\MILIND\source\repos\File Handling\File Handling\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\MILIND\source\repos\File Handling\File Handling\obj\Debug\net8.0\File Handling.csproj.AssemblyReference.cache
+C:\Users\MILIND\source\repos\File Handling\File Handling\obj\Debug\net8.0\File Han.E4F8065B.Up2Date
+C:\Users\MILIND\source\repos\File Handling\File Handling\bin\Debug\net8.0\Newtonsoft.Json.dll
