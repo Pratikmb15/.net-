@@ -1,0 +1,7 @@
+C:\Users\MILIND\source\repos\Review1\Review1\obj\Debug\Review1.csproj.AssemblyReference.cache
+C:\Users\MILIND\source\repos\Review1\Review1\obj\Debug\Review1.csproj.CoreCompileInputs.cache
+C:\Users\MILIND\source\repos\Review1\Review1\bin\Debug\Review1.exe.config
+C:\Users\MILIND\source\repos\Review1\Review1\bin\Debug\Review1.exe
+C:\Users\MILIND\source\repos\Review1\Review1\bin\Debug\Review1.pdb
+C:\Users\MILIND\source\repos\Review1\Review1\obj\Debug\Review1.exe
+C:\Users\MILIND\source\repos\Review1\Review1\obj\Debug\Review1.pdb
