@@ -1,0 +1,14 @@
+C:\Users\MILIND\source\repos\Review3\Review3\obj\Debug\net8.0\Review3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MILIND\source\repos\Review3\Review3\obj\Debug\net8.0\Review3.AssemblyInfoInputs.cache
+C:\Users\MILIND\source\repos\Review3\Review3\obj\Debug\net8.0\Review3.AssemblyInfo.cs
+C:\Users\MILIND\source\repos\Review3\Review3\obj\Debug\net8.0\Review3.csproj.CoreCompileInputs.cache
+C:\Users\MILIND\source\repos\Review3\Review3\bin\Debug\net8.0\Review3.exe
+C:\Users\MILIND\source\repos\Review3\Review3\bin\Debug\net8.0\Review3.deps.json
+C:\Users\MILIND\source\repos\Review3\Review3\bin\Debug\net8.0\Review3.runtimeconfig.json
+C:\Users\MILIND\source\repos\Review3\Review3\bin\Debug\net8.0\Review3.dll
+C:\Users\MILIND\source\repos\Review3\Review3\bin\Debug\net8.0\Review3.pdb
+C:\Users\MILIND\source\repos\Review3\Review3\obj\Debug\net8.0\Review3.dll
+C:\Users\MILIND\source\repos\Review3\Review3\obj\Debug\net8.0\refint\Review3.dll
+C:\Users\MILIND\source\repos\Review3\Review3\obj\Debug\net8.0\Review3.pdb
+C:\Users\MILIND\source\repos\Review3\Review3\obj\Debug\net8.0\Review3.genruntimeconfig.cache
+C:\Users\MILIND\source\repos\Review3\Review3\obj\Debug\net8.0\ref\Review3.dll
