@@ -1,0 +1,14 @@
+C:\Users\MILIND\source\repos\Review4\Review4\bin\Debug\net8.0\Review4.exe
+C:\Users\MILIND\source\repos\Review4\Review4\bin\Debug\net8.0\Review4.deps.json
+C:\Users\MILIND\source\repos\Review4\Review4\bin\Debug\net8.0\Review4.runtimeconfig.json
+C:\Users\MILIND\source\repos\Review4\Review4\bin\Debug\net8.0\Review4.dll
+C:\Users\MILIND\source\repos\Review4\Review4\bin\Debug\net8.0\Review4.pdb
+C:\Users\MILIND\source\repos\Review4\Review4\obj\Debug\net8.0\Review4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MILIND\source\repos\Review4\Review4\obj\Debug\net8.0\Review4.AssemblyInfoInputs.cache
+C:\Users\MILIND\source\repos\Review4\Review4\obj\Debug\net8.0\Review4.AssemblyInfo.cs
+C:\Users\MILIND\source\repos\Review4\Review4\obj\Debug\net8.0\Review4.csproj.CoreCompileInputs.cache
+C:\Users\MILIND\source\repos\Review4\Review4\obj\Debug\net8.0\Review4.dll
+C:\Users\MILIND\source\repos\Review4\Review4\obj\Debug\net8.0\refint\Review4.dll
+C:\Users\MILIND\source\repos\Review4\Review4\obj\Debug\net8.0\Review4.pdb
+C:\Users\MILIND\source\repos\Review4\Review4\obj\Debug\net8.0\Review4.genruntimeconfig.cache
+C:\Users\MILIND\source\repos\Review4\Review4\obj\Debug\net8.0\ref\Review4.dll
