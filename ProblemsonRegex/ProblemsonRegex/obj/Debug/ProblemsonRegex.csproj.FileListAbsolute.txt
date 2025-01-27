@@ -1,0 +1,7 @@
+C:\Users\MILIND\source\repos\ProblemsonRegex\ProblemsonRegex\obj\Debug\ProblemsonRegex.csproj.AssemblyReference.cache
+C:\Users\MILIND\source\repos\ProblemsonRegex\ProblemsonRegex\obj\Debug\ProblemsonRegex.csproj.CoreCompileInputs.cache
+C:\Users\MILIND\source\repos\ProblemsonRegex\ProblemsonRegex\bin\Debug\ProblemsonRegex.exe.config
+C:\Users\MILIND\source\repos\ProblemsonRegex\ProblemsonRegex\bin\Debug\ProblemsonRegex.exe
+C:\Users\MILIND\source\repos\ProblemsonRegex\ProblemsonRegex\bin\Debug\ProblemsonRegex.pdb
+C:\Users\MILIND\source\repos\ProblemsonRegex\ProblemsonRegex\obj\Debug\ProblemsonRegex.exe
+C:\Users\MILIND\source\repos\ProblemsonRegex\ProblemsonRegex\obj\Debug\ProblemsonRegex.pdb
