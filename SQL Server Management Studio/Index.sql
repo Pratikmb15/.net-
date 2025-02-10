@@ -4,4 +4,10 @@ CREATE TABLE Students (
     email VARCHAR(100)
 );
 
-create non clustered index 
+create nonclustered index nc_idx_name
+on students(name);
+
+create unique index uq_nc_idx_email
+on students(email);
+
+drop index nc_idx_name on students;
